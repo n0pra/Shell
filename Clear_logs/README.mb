@@ -1,0 +1,6 @@
+Le script demande le répertoire des fichiers de logs, puis il demande son nom pour le purger.
+
+Pour exécuter le script :
+
+$ sudo chmod +x clear_log.sh
+$ ./clear_log.sh
