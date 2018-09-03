@@ -1,6 +1,0 @@
-Installation de Docker-CE sur un serveur Ubuntu 16.04 LTS.
-
-Pour exécuter le script :
-
-$ sudo chmod +x install_docker.sh
-$ ./install_docker.sh
